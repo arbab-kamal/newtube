@@ -16,7 +16,7 @@ export const HomeNavbar = () => {
           <Link prefetch href="/" className="hidden md:block">
             <div className="p-4 flex items-center gap-1">
               <Image src="/logo.svg" alt="logo" width={32} height={32} />
-              <p className="text-xl font-semibold tracking-tight">InTube</p>
+              <p className="text-xl font-semibold tracking-tight">newTube</p>
             </div>
           </Link>
         </div>
